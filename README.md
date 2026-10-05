@@ -50,3 +50,6 @@ Abra o `index.html` no navegador ou use a extensão Live Server do VS Code.
 
 **Henrique Dorazzi dos Reis**
 GitHub: [@dorazzii](https://github.com/dorazzii)
+
+**Rafael de Almeida Souza Rodrigues**
+gitHub: [@raFaoX5](https://github.com/raFaoX5)
